@@ -1,0 +1,51 @@
+1. Who developed Python Programming Language?
+Answer: Guido van Rossum
+2. Which type of Programming does Python support?
+Answer: Python supports Object-Oriented Programming (OOP), Procedural Programming, and Functional Programming paradigms.
+3. Is Python case sensitive when dealing with identifiers?
+Answer: Yes, Python is case-sensitive. Variable names like myVariable and myvariable are considered different.
+4. What is the correct extension of the Python file?
+Answer: The standard extension for Python files is .py.
+5. Is Python code compiled or interpreted?
+Answer: Python code is interpreted. This means the code is executed line by line, without a separate compilation step.
+6. Name a few blocks of code used to define in Python language?
+Answer: Some common code blocks in Python include:
+Functions: Defined using the def keyword.
+Classes: Defined using the class keyword.
+Conditional statements: Using if, else, and elif.
+Loops: Using for and while.
+7. State a character used to give single-line comments in Python?
+Answer: The # character is used for single-line comments.
+8. Mention functions which can help us to find the version of python that we are currently working on?
+Answer: You can use the following functions to check the Python version:
+sys.version: Returns a string containing the version information.
+platform.python_version(): Returns the version number as a string.
+9. Python supports the creation of anonymous functions at runtime, using a construct called
+Answer: Python uses lambda expressions to create anonymous functions.
+10. What does pip stand for in Python?
+Answer: pip stands for Pip Installs Packages. It's a package manager used to install and manage third-party Python packages.
+11. Mention a few built-in functions in Python?
+Answer: Some common built-in functions include:
+print(): Prints values to the console.
+len(): Returns the length of a sequence (e.g., string, list).
+input(): Gets user input from the console.
+int(), float(), str(): Converts values to integer, float, or string, respectively.
+max(), min(): Returns the maximum or minimum value in a sequence.
+12. What is the maximum possible length of an identifier in Python?
+Answer: There's no strict limit on the length of identifiers in Python, but it's generally recommended to keep them reasonably short and descriptive for readability.
+13. What are the benefits of using Python?
+Answer: Python offers several benefits, including:
+Readability: Python's syntax is clean and easy to understand.
+Versatility: It can be used for various tasks, from web development to data analysis.
+Large community: A strong community provides extensive support and resources.
+Cross-platform compatibility: Python runs on multiple operating systems.
+Extensive libraries: A vast ecosystem of libraries and frameworks is available.
+14. How is memory managed in Python?
+Answer: Python uses garbage collection to automatically manage memory. This means the interpreter reclaims memory for objects that are no longer in use.
+15. How to install Python on Windows and set path variables?
+Answer:
+Download the Python installer from the official website (python.org).
+Run the installer and follow the on-screen instructions.
+During installation, make sure to check the option to add Python to the PATH environment variable. This allows you to run Python from the command line anywhere on your system.
+16. Is indentation required in Python?
+Answer: Yes, indentation is crucial in Python. It's used to define code blocks and control the flow of execution. Consistent indentation is essential for correct program behavior.
